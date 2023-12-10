@@ -1,0 +1,4 @@
+<launch>
+    <!-- Run ik_service_node -->
+    <node name="ik_service_node" pkg="ik_service" type="ik_service_node" output="screen" />
+</launch>
